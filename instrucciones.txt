@@ -1,1 +1,2 @@
 linea para conflicto de merge
+2da linea para conflicto de merge
